@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Normas Comunidad Joe</title>
+<style>
+body {
+  background: #fff0f6;
+  font-family: Arial, sans-serif;
+  color: #75465c;
+  text-align: center;
+  padding: 25px;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+h1 { color: #d66b9b; }
+.rule {
+  background: white;
+  padding: 18px;
+  margin: 15px 0;
+  border-radius: 18px;
+  text-align: left;
+  box-shadow: 0 3px 12px #eac6d6;
+}
+button {
+  background: #e99abb;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>♡ Normas Comunidad Joe ♡</h1>
+<p>Bienvenid@ a nuestra comunidad. ¡Lee las normas!</p>
+
+<div class="rule">୨୧ **01. Respeto:** Trata a todos con amabilidad.</div>
+<div class="rule">୨୧ **02. No spam:** Evita enviar mensajes repetidos.</div>
+<div class="rule">୨୧ **03. No insultos:** No se permiten ataques ni acoso.</div>
+<div class="rule">୨୧ **04. No contenido inapropiado:** Mantén un ambiente seguro.</div>
+<div class="rule">୨୧ **05. Privacidad:** No compartas información personal de otros.</div>
+<div class="rule">୨୧ **06. Staff:** Respeta las decisiones de moderación.</div>
+<div class="rule">୨୧ **07. Publicidad:** No hagas publicidad sin autorización.</div>
+
+<p>♡ Gracias por formar parte de nuestra comunidad ♡</p>
+</div>
+</body>
+</html>
